@@ -1,4 +1,6 @@
 # IMT2200-PROYECTO
+Escriber...
+...
 ## Introducción a la Ciencia de Datos 🧪📊
 
 **Agustin Alonso De Juan Córdova** - Agusrush21
