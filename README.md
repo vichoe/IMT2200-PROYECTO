@@ -1,10 +1,25 @@
 # IMT2200-PROYECTO
-Agustin Alonso De Juan Córdova - Agusrush21
+## Introducción a la Ciencia de Datos 🧪📊
 
-Martín Mauricio Muñoz Guerrero - martinxxo
+**Agustin Alonso De Juan Córdova** - Agusrush21
 
-Vicente Rodrigo De Mavardo Verdugo - vichoe
+**Martín Mauricio Muñoz Guerrero** - martinxxo
 
-Sebastian Ignacio Mena Soza - Sebastmenas
+**Vicente Rodrigo De Mavardo Verdugo** - vichoe
 
-Juan Tomás José Levipil Vigueras - jlevipil
+**Sebastian Ignacio Mena Soza** - Sebastmenas
+
+**Juan Tomás José Levipil Vigueras** - jlevipil
+
+
+## Cronograma del Proyecto
+
+| Entregable    | Fecha de Inicio  | Fecha de Entrega | Estado     |
+|---------------|------------------|------------------|------------|
+| Entrega 1     | -                | 08/10/2024       | Incompleto |
+| Entrega 2     | -                | 22/11/2024       | Incompleto |
+| Entrega 3     | -                | 06/12/2024       | Incompleto |
+
+
+
+
