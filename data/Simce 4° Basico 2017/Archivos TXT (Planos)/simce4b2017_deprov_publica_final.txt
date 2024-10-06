@@ -1,0 +1,45 @@
+agno|grado|cod_reg|nom_reg|cod_deprov|nom_deprov|prom_lect4b_deprov|prom_mate4b_deprov|dif_lect4b_deprov|dif_mate4b_deprov|sigdif_lect4b_deprov|sigdif_mate4b_deprov
+2017|4b|1|Región de Tarapacá|11|Iquique|268|257|3|-1|0|0
+2017|4b|1|Región de Tarapacá|14|Tamarugal|251|248|0|6|0|0
+2017|4b|2|Región de Antofagasta|21|Antofagasta|271|259|5|0|0|0
+2017|4b|2|Región de Antofagasta|22|El Loa|277|268|7|2|1|0
+2017|4b|3|Región de Atacama|31|Copiapó - Chañaral|260|250|-5|-6|0|0
+2017|4b|3|Región de Atacama|32|Huasco|272|261|4|0|0|0
+2017|4b|4|Región de Coquimbo|41|Elqui|271|263|1|0|0|0
+2017|4b|4|Región de Coquimbo|42|Limarí|270|257|6|0|1|0
+2017|4b|4|Región de Coquimbo|43|Choapa|259|242|0|-2|0|0
+2017|4b|5|Región de Valparaíso|51|Quillota - Petorca|264|257|2|-3|0|0
+2017|4b|5|Región de Valparaíso|52|San Felipe - Los Andes|263|253|1|-1|0|0
+2017|4b|5|Región de Valparaíso|53|Valparaíso|266|260|1|-1|0|0
+2017|4b|5|Región de Valparaíso|54|San Antonio|262|255|0|-3|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|61|Cachapoal|266|259|1|0|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|62|Colchagua|270|260|6|1|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|63|Cardenal Caro|273|260|5|-2|0|0
+2017|4b|7|Región del Maule|71|Curicó|270|264|2|-3|0|0
+2017|4b|7|Región del Maule|72|Talca|271|267|0|-2|0|0
+2017|4b|7|Región del Maule|73|Linares|270|263|4|1|0|0
+2017|4b|7|Región del Maule|74|Cauquenes|270|260|4|5|0|0
+2017|4b|8|Región del Biobío|81|Ñuble|270|262|3|-1|0|0
+2017|4b|8|Región del Biobío|82|Biobío|267|260|3|0|0|0
+2017|4b|8|Región del Biobío|83|Concepción|270|262|1|-2|0|0
+2017|4b|8|Región del Biobío|84|Arauco|267|257|2|1|0|0
+2017|4b|9|Región de la Araucanía|91|Malleco|264|251|3|-1|0|0
+2017|4b|9|Región de la Araucanía|92|Cautín Norte|270|255|2|-3|0|0
+2017|4b|9|Región de la Araucanía|93|Cautín Sur|267|249|2|-3|0|0
+2017|4b|10|Región de Los Lagos|101|Llanquihue|269|259|0|-3|0|0
+2017|4b|10|Región de Los Lagos|102|Chiloé|270|255|1|-2|0|0
+2017|4b|10|Región de Los Lagos|103|Osorno|272|258|8|3|1|0
+2017|4b|10|Región de Los Lagos|104|Palena|254|233|-1|-5|0|0
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|111|Coyhaique|260|251|0|-1|0|0
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|121|Magallanes|266|256|0|-1|0|0
+2017|4b|13|Región Metropolitana|131|Santiago Centro|273|266|1|-2|0|0
+2017|4b|13|Región Metropolitana|132|Santiago Sur|260|255|1|0|0|0
+2017|4b|13|Región Metropolitana|133|Santiago Oriente|290|285|2|-2|0|0
+2017|4b|13|Región Metropolitana|134|Santiago Poniente|266|260|1|-2|0|0
+2017|4b|13|Región Metropolitana|135|Talagante|264|255|4|2|0|0
+2017|4b|13|Región Metropolitana|136|Cordillera|267|262|0|-3|0|0
+2017|4b|13|Región Metropolitana|137|Santiago Norte|269|263|2|-3|0|0
+2017|4b|14|Región de los Ríos|141|Valdivia|269|255|1|-2|0|0
+2017|4b|14|Región de los Ríos|142|Ranco|274|259|6|2|0|0
+2017|4b|15|Región de Arica y Parinacota|151|Arica|277|266|3|-5|0|0
+2017|4b|15|Región de Arica y Parinacota|152|Parinacota|249|227|40|29|1|1

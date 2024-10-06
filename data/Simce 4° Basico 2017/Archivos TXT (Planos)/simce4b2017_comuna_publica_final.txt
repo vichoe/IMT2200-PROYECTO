@@ -1,0 +1,347 @@
+agno|grado|cod_reg|nom_reg|cod_pro|nom_pro|cod_com|nom_com|cod_deprov|nom_deprov|prom_lect4b_com|prom_mate4b_com|dif_lect4b_com|dif_mate4b_com|sigdif_lect4b_com|sigdif_mate4b_com
+2017|4b|2|Región de Antofagasta|1|Tocopilla|1|Tocopilla|21|Antofagasta|251|240|4|4|0|0
+2017|4b|2|Región de Antofagasta|1|Tocopilla|2|María Elena|21|Antofagasta|265|278|20|24|1|1
+2017|4b|3|Región de Atacama|1|Chañaral|1|Chañaral|31|Copiapó - Chañaral|258|239|12|2|1|0
+2017|4b|3|Región de Atacama|1|Chañaral|2|Diego de Almagro|31|Copiapó - Chañaral|259|243|-12|-29|-1|-1
+2017|4b|4|Región de Coquimbo|1|Elqui|1|La Serena|41|Elqui|277|269|2|-1|0|0
+2017|4b|4|Región de Coquimbo|1|Elqui|2|La Higuera|41|Elqui|247|253|-13|4|-1|0
+2017|4b|4|Región de Coquimbo|1|Elqui|3|Coquimbo|41|Elqui|266|258|1|0|0|0
+2017|4b|4|Región de Coquimbo|1|Elqui|4|Andacollo|41|Elqui|270|261|4|-3|0|0
+2017|4b|4|Región de Coquimbo|1|Elqui|5|Vicuña|41|Elqui|255|244|0|-4|0|0
+2017|4b|4|Región de Coquimbo|1|Elqui|6|Paihuano|41|Elqui|253|238|2|9|0|0
+2017|4b|5|Región de Valparaíso|1|Petorca|1|La Ligua|51|Quillota - Petorca|263|253|-3|-4|0|0
+2017|4b|5|Región de Valparaíso|1|Petorca|2|Petorca|51|Quillota - Petorca|275|262|16|1|1|0
+2017|4b|5|Región de Valparaíso|1|Petorca|3|Cabildo|51|Quillota - Petorca|256|248|2|4|0|0
+2017|4b|5|Región de Valparaíso|1|Petorca|4|Zapallar|51|Quillota - Petorca|263|260|7|-7|0|0
+2017|4b|5|Región de Valparaíso|1|Petorca|5|Papudo|51|Quillota - Petorca|255|264|4|12|0|1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|1|Rancagua|61|Cachapoal|270|265|0|-1|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|2|Graneros|61|Cachapoal|251|239|5|0|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|3|Mostazal|61|Cachapoal|245|232|-2|-4|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|4|Codegua|61|Cachapoal|260|242|12|13|1|1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|5|Machalí|61|Cachapoal|281|281|-4|1|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|6|Olivar|61|Cachapoal|263|264|0|1|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|13|Peumo|61|Cachapoal|264|249|13|-2|1|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|14|Coltauco|61|Cachapoal|264|254|5|-3|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|15|Coinco|61|Cachapoal|257|249|-4|5|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|16|Doñihue|61|Cachapoal|267|263|1|6|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|17|Las Cabras|61|Cachapoal|258|248|3|1|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|7|REQUÍNOA|61|Cachapoal|265|247|9|1|1|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|8|Rengo|61|Cachapoal|258|253|-5|-8|0|-1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|9|Malloa|61|Cachapoal|270|271|11|18|1|1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|10|Quinta de Tilcoco|61|Cachapoal|262|255|3|3|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|11|San Vicente|61|Cachapoal|265|253|0|-3|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|1|Cachapoal|12|Pichidegua|61|Cachapoal|270|266|12|8|1|0
+2017|4b|7|Región del Maule|1|Curicó|1|Curicó|71|Curicó|275|270|1|-3|0|0
+2017|4b|7|Región del Maule|1|Curicó|2|Teno|71|Curicó|267|258|-5|-13|0|-1
+2017|4b|7|Región del Maule|1|Curicó|3|Romeral|71|Curicó|269|266|-9|-9|0|0
+2017|4b|7|Región del Maule|1|Curicó|4|Molina|71|Curicó|260|245|5|-4|0|0
+2017|4b|7|Región del Maule|1|Curicó|5|Sagrada Familia|71|Curicó|254|253|3|2|0|0
+2017|4b|7|Región del Maule|1|Curicó|6|Hualañé|71|Curicó|274|274|-2|-2|0|0
+2017|4b|7|Región del Maule|1|Curicó|7|Licantén|71|Curicó|273|272|3|-1|0|0
+2017|4b|7|Región del Maule|1|Curicó|8|Vichuquén|71|Curicó|279|270|16|5|1|0
+2017|4b|7|Región del Maule|1|Curicó|9|Rauco|71|Curicó|259|252|-4|8|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|1|Chillán|81|Ñuble|274|267|3|-4|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|2|San Carlos|81|Ñuble|278|275|4|1|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|3|Ñiquén|81|Ñuble|267|259|1|1|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|4|San Fabián|81|Ñuble|281|265|31|11|1|0
+2017|4b|8|Región del Biobío|1|Ñuble|17|Cobquecura|81|Ñuble|248|235|-27|-26|-1|-1
+2017|4b|8|Región del Biobío|1|Ñuble|18|Quirihue|81|Ñuble|281|271|13|16|1|1
+2017|4b|8|Región del Biobío|1|Ñuble|19|Ninhue|81|Ñuble|281|273|25|11|1|1
+2017|4b|8|Región del Biobío|1|Ñuble|20|San Nicolás|81|Ñuble|282|272|-1|-13|0|-1
+2017|4b|8|Región del Biobío|1|Ñuble|21|Chillán Viejo|81|Ñuble|261|260|-2|3|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|11|Bulnes|81|Ñuble|254|243|7|3|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|12|Quillón|81|Ñuble|277|269|11|-2|1|0
+2017|4b|8|Región del Biobío|1|Ñuble|13|Ránquil|81|Ñuble|281|260|25|14|1|1
+2017|4b|8|Región del Biobío|1|Ñuble|14|Portezuelo|81|Ñuble|256|260|0|7|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|15|Coelemu|81|Ñuble|268|261|-9|-2|-1|0
+2017|4b|8|Región del Biobío|1|Ñuble|16|Treguaco|81|Ñuble|263|243|-7|-22|0|-1
+2017|4b|8|Región del Biobío|1|Ñuble|5|Coihueco|81|Ñuble|262|253|3|-7|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|6|Pinto|81|Ñuble|254|244|1|9|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|7|San Ignacio|81|Ñuble|256|242|-2|-9|0|-1
+2017|4b|8|Región del Biobío|1|Ñuble|8|El Carmen|81|Ñuble|266|252|5|4|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|9|Yungay|81|Ñuble|273|259|-3|-5|0|0
+2017|4b|8|Región del Biobío|1|Ñuble|10|Pemuco|81|Ñuble|270|252|27|21|1|1
+2017|4b|9|Región de la Araucanía|1|Malleco|1|Angol|91|Malleco|270|259|4|-5|0|0
+2017|4b|9|Región de la Araucanía|1|Malleco|2|Renaico|91|Malleco|258|260|-10|5|-1|0
+2017|4b|9|Región de la Araucanía|1|Malleco|3|Collipulli|91|Malleco|252|240|-2|1|0|0
+2017|4b|9|Región de la Araucanía|1|Malleco|4|Lonquimay|91|Malleco|263|237|18|12|1|1
+2017|4b|9|Región de la Araucanía|1|Malleco|5|Curacautín|91|Malleco|252|240|8|7|0|0
+2017|4b|9|Región de la Araucanía|1|Malleco|6|Ercilla|91|Malleco|246|226|-24|-23|-1|-1
+2017|4b|9|Región de la Araucanía|1|Malleco|7|Victoria|91|Malleco|267|253|5|4|0|0
+2017|4b|9|Región de la Araucanía|1|Malleco|8|Traiguén|91|Malleco|276|260|1|-12|0|-1
+2017|4b|9|Región de la Araucanía|1|Malleco|9|Lumaco|91|Malleco|266|252|10|16|1|1
+2017|4b|9|Región de la Araucanía|1|Malleco|10|Purén|91|Malleco|273|255|12|2|1|0
+2017|4b|9|Región de la Araucanía|1|Malleco|11|Los Sauces|91|Malleco|260|239|-16|-29|-1|-1
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|1|Coihaique|1|Coyhaique|111|Coyhaique|259|249|-1|-1|0|0
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|1|Coihaique|2|Lago Verde|111|Coyhaique|251|244|-13|10|0|0
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|1|Última Esperanza|1|Natales|121|Magallanes|257|243|0|-6|0|0
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|1|Última Esperanza|2|Torres del Paine|121|Magallanes|223|229|0|0|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|1|Santiago|131|Santiago Centro|278|270|1|-1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|2|Independencia|137|Santiago Norte|263|255|-3|-6|0|-1
+2017|4b|13|Región Metropolitana|1|Santiago|3|Conchalí|137|Santiago Norte|262|255|6|1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|27|Quinta Normal|134|Santiago Poniente|265|258|1|0|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|28|Lo Prado|134|Santiago Poniente|259|254|0|-9|0|-1
+2017|4b|13|Región Metropolitana|1|Santiago|29|Pudahuel|134|Santiago Poniente|266|263|1|-3|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|30|Cerro Navia|134|Santiago Poniente|253|246|1|3|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|31|Renca|134|Santiago Poniente|265|259|3|-5|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|32|Quilicura|137|Santiago Norte|271|270|3|-3|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|21|El Bosque|132|Santiago Sur|255|251|-2|-3|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|22|Pedro Aguirre Cerda|131|Santiago Centro|259|258|-3|-8|0|-1
+2017|4b|13|Región Metropolitana|1|Santiago|23|Lo Espejo|132|Santiago Sur|253|245|6|2|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|24|Estación Central|134|Santiago Poniente|265|256|2|-4|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|25|Cerrillos|134|Santiago Poniente|261|252|2|1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|26|Maipú|134|Santiago Poniente|271|266|0|-1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|15|San Joaquín|131|Santiago Centro|257|246|1|1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|16|La Granja|132|Santiago Sur|263|256|4|-1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|17|La Pintana|136|Cordillera|253|251|-2|-2|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|18|San Ramón|132|Santiago Sur|262|262|-4|-2|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|19|San Miguel|131|Santiago Centro|278|271|3|-2|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|20|La Cisterna|132|Santiago Sur|268|262|0|-1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|10|Ñuñoa|133|Santiago Oriente|288|282|2|-4|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|11|La Reina|133|Santiago Oriente|292|285|1|-4|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|12|Macul|133|Santiago Oriente|275|265|5|-4|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|13|Peñalolén|133|Santiago Oriente|267|261|5|-1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|14|La Florida|136|Cordillera|268|263|-4|-4|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|7|Vitacura|133|Santiago Oriente|311|306|4|0|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|8|Lo Barnechea|133|Santiago Oriente|296|292|4|-1|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|9|Las Condes|133|Santiago Oriente|301|298|2|-2|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|4|Huechuraba|137|Santiago Norte|274|271|6|2|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|5|Recoleta|137|Santiago Norte|263|254|1|-5|0|0
+2017|4b|13|Región Metropolitana|1|Santiago|6|Providencia|133|Santiago Oriente|299|292|1|1|0|0
+2017|4b|14|Región de los Ríos|1|Valdivia|1|Valdivia|141|Valdivia|275|264|2|-2|0|0
+2017|4b|14|Región de los Ríos|1|Valdivia|2|Mariquina|141|Valdivia|261|239|4|1|0|0
+2017|4b|14|Región de los Ríos|1|Valdivia|3|Lanco|141|Valdivia|265|245|-2|-11|0|-1
+2017|4b|14|Región de los Ríos|1|Valdivia|8|Panguipulli|141|Valdivia|258|240|-5|-6|0|0
+2017|4b|14|Región de los Ríos|1|Valdivia|10|Paillaco|141|Valdivia|268|257|-1|-2|0|0
+2017|4b|14|Región de los Ríos|1|Valdivia|4|Los Lagos|141|Valdivia|257|241|2|5|0|0
+2017|4b|14|Región de los Ríos|1|Valdivia|6|Corral|141|Valdivia|261|242|3|-3|0|0
+2017|4b|14|Región de los Ríos|1|Valdivia|7|Máfil|141|Valdivia|258|244|11|14|1|1
+2017|4b|15|Región de Arica y Parinacota|1|Arica|1|Arica|151|Arica|277|266|3|-5|0|0
+2017|4b|15|Región de Arica y Parinacota|1|Arica|2|Camarones|151|Arica|229|215|0|0|0|0
+2017|4b|2|Región de Antofagasta|2|El Loa|1|Calama|22|El Loa|277|268|7|2|1|0
+2017|4b|2|Región de Antofagasta|2|El Loa|2|Ollagüe|22|El Loa|296|297|0|0|0|0
+2017|4b|2|Región de Antofagasta|2|El Loa|3|San Pedro de Atacama|22|El Loa|268|281|-2|8|0|0
+2017|4b|3|Región de Atacama|2|Copiapó|1|Copiapó|31|Copiapó - Chañaral|264|256|-6|-4|0|0
+2017|4b|3|Región de Atacama|2|Copiapó|2|Caldera|31|Copiapó - Chañaral|252|241|-3|0|0|0
+2017|4b|3|Región de Atacama|2|Copiapó|3|Tierra Amarilla|31|Copiapó - Chañaral|226|212|-16|-13|-1|-1
+2017|4b|4|Región de Coquimbo|2|Limarí|1|Ovalle|42|Limarí|270|259|5|-2|0|0
+2017|4b|4|Región de Coquimbo|2|Limarí|2|Río Hurtado|42|Limarí|278|245|0|-12|0|-1
+2017|4b|4|Región de Coquimbo|2|Limarí|3|Monte Patria|42|Limarí|273|259|15|9|1|1
+2017|4b|4|Región de Coquimbo|2|Limarí|4|Combarbalá|42|Limarí|266|250|5|7|0|0
+2017|4b|4|Región de Coquimbo|2|Limarí|5|Punitaqui|42|Limarí|264|241|6|-3|0|0
+2017|4b|5|Región de Valparaíso|2|Los Andes|1|Los Andes|52|San Felipe - Los Andes|269|261|-1|-1|0|0
+2017|4b|5|Región de Valparaíso|2|Los Andes|2|San Esteban|52|San Felipe - Los Andes|267|257|3|4|0|0
+2017|4b|5|Región de Valparaíso|2|Los Andes|3|Calle Larga|52|San Felipe - Los Andes|259|251|10|13|1|1
+2017|4b|5|Región de Valparaíso|2|Los Andes|4|Rinconada|52|San Felipe - Los Andes|272|272|22|11|1|1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|1|San Fernando|62|Colchagua|270|259|6|4|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|2|Chimbarongo|62|Colchagua|266|252|13|1|1|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|3|Placilla|62|Colchagua|263|255|4|0|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|10|Peralillo|62|Colchagua|268|262|3|-1|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|7|Lolol|62|Colchagua|282|274|22|13|1|1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|8|Pumanque|62|Colchagua|285|257|-12|-22|0|-1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|9|Palmilla|62|Colchagua|255|251|19|16|1|1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|4|Nancagua|62|Colchagua|277|267|8|-3|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|5|Chépica|62|Colchagua|273|269|-4|-12|0|-1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|2|Colchagua|6|Santa Cruz|62|Colchagua|270|265|1|-1|0|0
+2017|4b|7|Región del Maule|2|Talca|1|Talca|72|Talca|273|268|2|0|0|0
+2017|4b|7|Región del Maule|2|Talca|2|Pelarco|72|Talca|266|250|2|-10|0|-1
+2017|4b|7|Región del Maule|2|Talca|3|Río Claro|72|Talca|244|235|-2|-14|0|-1
+2017|4b|7|Región del Maule|2|Talca|7|Pencahue|72|Talca|253|252|0|3|0|0
+2017|4b|7|Región del Maule|2|Talca|8|Constitución|72|Talca|285|290|5|0|0|0
+2017|4b|7|Región del Maule|2|Talca|9|Curepto|72|Talca|285|272|-3|-12|0|-1
+2017|4b|7|Región del Maule|2|Talca|10|San Rafael|72|Talca|257|247|-5|-5|0|0
+2017|4b|7|Región del Maule|2|Talca|4|San Clemente|72|Talca|255|253|-11|-10|-1|-1
+2017|4b|7|Región del Maule|2|Talca|5|Maule|72|Talca|276|264|5|4|0|0
+2017|4b|7|Región del Maule|2|Talca|6|Empedrado|72|Talca|271|271|-2|-5|0|0
+2017|4b|8|Región del Biobío|2|Biobío|1|Los Ángeles|82|Biobío|268|263|4|0|0|0
+2017|4b|8|Región del Biobío|2|Biobío|2|Cabrero|82|Biobío|264|261|-2|0|0|0
+2017|4b|8|Región del Biobío|2|Biobío|3|Tucapel|82|Biobío|268|260|9|15|1|1
+2017|4b|8|Región del Biobío|2|Biobío|10|Nacimiento|82|Biobío|276|280|1|-3|0|0
+2017|4b|8|Región del Biobío|2|Biobío|11|Laja|82|Biobío|274|268|9|10|1|1
+2017|4b|8|Región del Biobío|2|Biobío|12|San Rosendo|82|Biobío|266|251|25|-2|1|0
+2017|4b|8|Región del Biobío|2|Biobío|13|Yumbel|82|Biobío|253|239|-3|-12|0|-1
+2017|4b|8|Región del Biobío|2|Biobío|14|ALTO BIOBÍO|82|Biobío|239|210|12|6|1|0
+2017|4b|8|Región del Biobío|2|Biobío|4|Antuco|82|Biobío|289|275|22|17|1|1
+2017|4b|8|Región del Biobío|2|Biobío|5|Quilleco|82|Biobío|256|228|-2|-28|0|-1
+2017|4b|8|Región del Biobío|2|Biobío|6|Santa Bárbara|82|Biobío|268|255|9|10|0|1
+2017|4b|8|Región del Biobío|2|Biobío|7|Quilaco|82|Biobío|243|228|-4|-14|0|-1
+2017|4b|8|Región del Biobío|2|Biobío|8|Mulchén|82|Biobío|263|252|-2|-4|0|0
+2017|4b|8|Región del Biobío|2|Biobío|9|Negrete|82|Biobío|267|272|2|-8|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|1|Temuco|92|Cautín Norte|277|265|2|-4|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|2|Lautaro|92|Cautín Norte|256|239|-1|-4|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|3|Perquenco|92|Cautín Norte|248|236|-12|-13|-1|-1
+2017|4b|9|Región de la Araucanía|2|Cautín|4|Vilcún|92|Cautín Norte|268|243|7|-10|0|-1
+2017|4b|9|Región de la Araucanía|2|Cautín|5|Cunco|92|Cautín Norte|255|239|-8|-11|0|-1
+2017|4b|9|Región de la Araucanía|2|Cautín|6|Melipeuco|92|Cautín Norte|263|229|10|0|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|19|Galvarino|92|Cautín Norte|254|229|11|6|1|0
+2017|4b|9|Región de la Araucanía|2|Cautín|20|Padre Las Casas|93|Cautín Sur|260|247|-3|-5|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|21|Cholchol|92|Cautín Norte|262|229|4|-6|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|13|Loncoche|93|Cautín Sur|266|247|9|4|1|0
+2017|4b|9|Región de la Araucanía|2|Cautín|14|Toltén|93|Cautín Sur|269|252|8|8|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|15|Teodoro Schmidt|93|Cautín Sur|270|236|8|-12|0|-1
+2017|4b|9|Región de la Araucanía|2|Cautín|16|Saavedra|92|Cautín Norte|253|229|4|6|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|17|Carahue|92|Cautín Norte|259|241|-2|-1|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|18|Nueva Imperial|92|Cautín Norte|267|255|7|8|0|1
+2017|4b|9|Región de la Araucanía|2|Cautín|7|Curarrehue|93|Cautín Sur|264|244|3|7|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|8|Pucón|93|Cautín Sur|270|253|-6|-10|0|-1
+2017|4b|9|Región de la Araucanía|2|Cautín|9|Villarrica|93|Cautín Sur|273|252|5|-3|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|10|Freire|93|Cautín Sur|263|238|5|-4|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|11|Pitrufquén|93|Cautín Sur|274|261|5|5|0|0
+2017|4b|9|Región de la Araucanía|2|Cautín|12|Gorbea|93|Cautín Sur|257|247|5|-2|0|0
+2017|4b|10|Región de Los Lagos|2|Osorno|1|Osorno|103|Osorno|278|267|9|4|1|0
+2017|4b|10|Región de Los Lagos|2|Osorno|2|San Pablo|103|Osorno|257|234|3|1|0|0
+2017|4b|10|Región de Los Lagos|2|Osorno|3|Puyehue|103|Osorno|246|225|-7|-10|0|-1
+2017|4b|10|Región de Los Lagos|2|Osorno|4|Puerto Octay|103|Osorno|268|252|17|9|1|0
+2017|4b|10|Región de Los Lagos|2|Osorno|5|Purranque|103|Osorno|262|245|-3|-6|0|0
+2017|4b|10|Región de Los Lagos|2|Osorno|6|Río Negro|103|Osorno|250|230|7|-1|0|0
+2017|4b|10|Región de Los Lagos|2|Osorno|7|San Juan de la Costa|103|Osorno|257|221|20|7|1|0
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|2|Aisén|1|Aysén|111|Coyhaique|265|255|4|-3|0|0
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|2|Aisén|2|Cisnes|111|Coyhaique|272|263|5|1|0|0
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|2|Aisén|3|Guaitecas|111|Coyhaique|260|255|-9|18|0|1
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|2|Magallanes|1|Punta Arenas|121|Magallanes|268|259|0|-1|0|0
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|2|Magallanes|2|Río Verde|121|Magallanes|309|234|0|0|0|0
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|2|Magallanes|3|Laguna Blanca|121|Magallanes|225|195|0|0|0|0
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|2|Magallanes|4|San Gregorio|121|Magallanes|321|281|0|0|0|0
+2017|4b|13|Región Metropolitana|2|Chacabuco|1|Colina|137|Santiago Norte|282|279|3|-2|0|0
+2017|4b|13|Región Metropolitana|2|Chacabuco|2|Lampa|137|Santiago Norte|259|251|0|-7|0|-1
+2017|4b|13|Región Metropolitana|2|Chacabuco|3|Tiltil|137|Santiago Norte|252|243|-2|2|0|0
+2017|4b|15|Región de Arica y Parinacota|2|Parinacota|1|Putre|152|Parinacota|250|227|40|29|1|1
+2017|4b|15|Región de Arica y Parinacota|2|Parinacota|2|General Lagos|152|Parinacota|239|229|0|0|0|0
+2017|4b|1|Región de Tarapacá|3|Iquique|1|Iquique|11|Iquique|274|263|3|1|0|0
+2017|4b|1|Región de Tarapacá|3|Iquique|7|Alto Hospicio|11|Iquique|259|248|4|-2|0|0
+2017|4b|2|Región de Antofagasta|3|Antofagasta|1|Antofagasta|21|Antofagasta|273|261|5|-1|0|0
+2017|4b|2|Región de Antofagasta|3|Antofagasta|2|Mejillones|21|Antofagasta|259|247|12|18|1|1
+2017|4b|2|Región de Antofagasta|3|Antofagasta|3|Sierra Gorda|21|Antofagasta|259|247|8|4|0|0
+2017|4b|2|Región de Antofagasta|3|Antofagasta|4|Taltal|21|Antofagasta|263|251|0|4|0|0
+2017|4b|3|Región de Atacama|3|Huasco|1|Vallenar|32|Huasco|276|264|7|0|1|0
+2017|4b|3|Región de Atacama|3|Huasco|2|Freirina|32|Huasco|233|231|-27|-19|-1|-1
+2017|4b|3|Región de Atacama|3|Huasco|3|Huasco|32|Huasco|270|264|17|17|1|1
+2017|4b|3|Región de Atacama|3|Huasco|4|Alto del Carmen|32|Huasco|283|263|2|7|0|0
+2017|4b|4|Región de Coquimbo|3|Choapa|1|Illapel|43|Choapa|255|237|-8|-1|-1|0
+2017|4b|4|Región de Coquimbo|3|Choapa|2|Salamanca|43|Choapa|265|247|3|1|0|0
+2017|4b|4|Región de Coquimbo|3|Choapa|3|Los Vilos|43|Choapa|257|242|11|-4|1|0
+2017|4b|4|Región de Coquimbo|3|Choapa|4|Canela|43|Choapa|257|241|-25|-9|-1|0
+2017|4b|5|Región de Valparaíso|3|San Felipe de Aconcagua|1|San Felipe|52|San Felipe - Los Andes|263|252|0|-4|0|0
+2017|4b|5|Región de Valparaíso|3|San Felipe de Aconcagua|2|Putaendo|52|San Felipe - Los Andes|251|240|3|1|0|0
+2017|4b|5|Región de Valparaíso|3|San Felipe de Aconcagua|3|Santa María|52|San Felipe - Los Andes|258|251|2|-3|0|0
+2017|4b|5|Región de Valparaíso|3|San Felipe de Aconcagua|4|Panquehue|52|San Felipe - Los Andes|270|250|-4|-10|0|0
+2017|4b|5|Región de Valparaíso|3|San Felipe de Aconcagua|5|Llaillay|52|San Felipe - Los Andes|252|242|-1|-1|0|0
+2017|4b|5|Región de Valparaíso|3|San Felipe de Aconcagua|6|Catemu|52|San Felipe - Los Andes|252|243|-11|-7|-1|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|3|Cardenal Caro|1|Pichilemu|63|Cardenal Caro|270|261|-5|-8|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|3|Cardenal Caro|2|Navidad|63|Cardenal Caro|267|258|2|-3|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|3|Cardenal Caro|3|Litueche|63|Cardenal Caro|266|253|3|-10|0|0
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|3|Cardenal Caro|4|La Estrella|63|Cardenal Caro|284|271|24|17|1|1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|3|Cardenal Caro|5|Marchihue|63|Cardenal Caro|288|280|23|14|1|1
+2017|4b|6|Región del Libertador General Bernardo O' Higgins|3|Cardenal Caro|6|Paredones|63|Cardenal Caro|273|246|11|0|0|0
+2017|4b|7|Región del Maule|3|Linares|1|Linares|73|Linares|277|271|1|1|0|0
+2017|4b|7|Región del Maule|3|Linares|2|Yerbas Buenas|73|Linares|268|265|7|2|0|0
+2017|4b|7|Región del Maule|3|Linares|3|Colbún|73|Linares|255|240|6|-5|0|0
+2017|4b|7|Región del Maule|3|Linares|4|Longaví|73|Linares|260|247|1|-9|0|-1
+2017|4b|7|Región del Maule|3|Linares|5|Parral|73|Linares|273|263|4|-3|0|0
+2017|4b|7|Región del Maule|3|Linares|6|Retiro|73|Linares|269|254|12|12|1|1
+2017|4b|7|Región del Maule|3|Linares|7|Villa Alegre|73|Linares|233|236|-10|-5|-1|0
+2017|4b|7|Región del Maule|3|Linares|8|San Javier|73|Linares|275|272|12|8|1|1
+2017|4b|8|Región del Biobío|3|Concepción|1|Concepción|83|Concepción|275|269|-2|-5|0|0
+2017|4b|8|Región del Biobío|3|Concepción|2|Talcahuano|83|Concepción|272|262|7|4|1|0
+2017|4b|8|Región del Biobío|3|Concepción|3|Penco|83|Concepción|265|257|-2|-4|0|0
+2017|4b|8|Región del Biobío|3|Concepción|4|Tomé|83|Concepción|283|263|10|-2|1|0
+2017|4b|8|Región del Biobío|3|Concepción|5|Florida|83|Concepción|256|243|7|-3|0|0
+2017|4b|8|Región del Biobío|3|Concepción|6|Hualqui|83|Concepción|257|244|-7|-5|0|0
+2017|4b|8|Región del Biobío|3|Concepción|7|Santa Juana|83|Concepción|265|257|-1|-1|0|0
+2017|4b|8|Región del Biobío|3|Concepción|8|Lota|83|Concepción|256|251|-8|-6|-1|0
+2017|4b|8|Región del Biobío|3|Concepción|9|Coronel|83|Concepción|264|257|-1|-1|0|0
+2017|4b|8|Región del Biobío|3|Concepción|10|Chiguayante|83|Concepción|274|269|5|2|0|0
+2017|4b|8|Región del Biobío|3|Concepción|11|San Pedro de la Paz|83|Concepción|267|264|-3|-2|0|0
+2017|4b|8|Región del Biobío|3|Concepción|12|Hualpén|83|Concepción|267|259|-4|-8|0|-1
+2017|4b|10|Región de Los Lagos|3|Llanquihue|1|Puerto Montt|101|Llanquihue|272|263|0|-3|0|0
+2017|4b|10|Región de Los Lagos|3|Llanquihue|2|Puerto Varas|101|Llanquihue|278|274|-1|0|0|0
+2017|4b|10|Región de Los Lagos|3|Llanquihue|3|Cochamó|101|Llanquihue|257|256|-19|-4|-1|0
+2017|4b|10|Región de Los Lagos|3|Llanquihue|4|Calbuco|101|Llanquihue|259|248|3|-1|0|0
+2017|4b|10|Región de Los Lagos|3|Llanquihue|5|Maullín|101|Llanquihue|267|251|2|-5|0|0
+2017|4b|10|Región de Los Lagos|3|Llanquihue|6|Los Muermos|101|Llanquihue|262|253|-3|-1|0|0
+2017|4b|10|Región de Los Lagos|3|Llanquihue|7|Fresia|101|Llanquihue|268|248|0|-2|0|0
+2017|4b|10|Región de Los Lagos|3|Llanquihue|8|Llanquihue|101|Llanquihue|260|239|-4|-9|0|-1
+2017|4b|10|Región de Los Lagos|3|Llanquihue|9|Frutillar|101|Llanquihue|254|240|-5|-11|0|-1
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|3|General Carrera|1|Chile Chico|111|Coyhaique|234|237|-16|-17|-1|-1
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|3|General Carrera|2|Río Ibáñez|111|Coyhaique|254|249|2|2|0|0
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|3|Tierra del Fuego|1|Porvenir|121|Magallanes|259|242|9|11|0|1
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|3|Tierra del Fuego|2|Primavera|121|Magallanes|278|262|-15|-8|0|0
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|3|Tierra del Fuego|3|Timaukel|121|Magallanes|270|270|0|0|0|0
+2017|4b|13|Región Metropolitana|3|Cordillera|1|Puente Alto|136|Cordillera|272|266|4|-3|0|0
+2017|4b|13|Región Metropolitana|3|Cordillera|2|San José de Maipo|136|Cordillera|260|251|5|8|0|0
+2017|4b|13|Región Metropolitana|3|Cordillera|3|Pirque|136|Cordillera|268|254|-1|-9|0|-1
+2017|4b|1|Región de Tarapacá|4|Tamarugal|2|Huara|14|Tamarugal|228|218|-10|-2|0|0
+2017|4b|1|Región de Tarapacá|4|Tamarugal|3|Camiña|14|Tamarugal|276|251|4|-30|0|-1
+2017|4b|1|Región de Tarapacá|4|Tamarugal|4|Colchane|14|Tamarugal|243|209|3|-17|0|0
+2017|4b|1|Región de Tarapacá|4|Tamarugal|5|Pica|14|Tamarugal|241|242|-15|1|-1|0
+2017|4b|1|Región de Tarapacá|4|Tamarugal|6|Pozo Almonte|14|Tamarugal|255|256|4|13|0|1
+2017|4b|5|Región de Valparaíso|4|Quillota|1|Quillota|51|Quillota - Petorca|270|270|2|0|0|0
+2017|4b|5|Región de Valparaíso|4|Quillota|2|La Cruz|51|Quillota - Petorca|251|243|-1|-1|0|0
+2017|4b|5|Región de Valparaíso|4|Quillota|3|La Calera|51|Quillota - Petorca|266|259|2|-4|0|0
+2017|4b|5|Región de Valparaíso|4|Quillota|4|Nogales|51|Quillota - Petorca|253|249|-3|-8|0|-1
+2017|4b|5|Región de Valparaíso|4|Quillota|5|Hijuelas|51|Quillota - Petorca|257|239|5|-6|0|0
+2017|4b|7|Región del Maule|4|Cauquenes|1|Cauquenes|74|Cauquenes|272|263|3|6|0|0
+2017|4b|7|Región del Maule|4|Cauquenes|2|Pelluhue|74|Cauquenes|282|273|23|14|1|1
+2017|4b|7|Región del Maule|4|Cauquenes|3|Chanco|74|Cauquenes|250|235|-10|-10|0|-1
+2017|4b|8|Región del Biobío|4|Arauco|1|Lebu|84|Arauco|263|253|-3|2|0|0
+2017|4b|8|Región del Biobío|4|Arauco|2|Arauco|84|Arauco|271|262|2|2|0|0
+2017|4b|8|Región del Biobío|4|Arauco|3|Curanilahue|84|Arauco|268|263|3|0|0|0
+2017|4b|8|Región del Biobío|4|Arauco|4|LOS ÁLAMOS|84|Arauco|261|248|5|2|0|0
+2017|4b|8|Región del Biobío|4|Arauco|5|Cañete|84|Arauco|276|266|9|8|1|1
+2017|4b|8|Región del Biobío|4|Arauco|6|Contulmo|84|Arauco|262|250|-9|-2|0|0
+2017|4b|8|Región del Biobío|4|Arauco|7|Tirúa|84|Arauco|251|233|-6|-13|0|-1
+2017|4b|10|Región de Los Lagos|4|Chiloé|1|Castro|102|Chiloé|272|258|-1|-3|0|0
+2017|4b|10|Región de Los Lagos|4|Chiloé|2|Ancud|102|Chiloé|271|254|3|-5|0|0
+2017|4b|10|Región de Los Lagos|4|Chiloé|3|Quemchi|102|Chiloé|282|259|15|7|1|0
+2017|4b|10|Región de Los Lagos|4|Chiloé|4|Dalcahue|102|Chiloé|267|265|-3|10|0|1
+2017|4b|10|Región de Los Lagos|4|Chiloé|5|Curaco de Vélez|102|Chiloé|282|256|-1|-4|0|0
+2017|4b|10|Región de Los Lagos|4|Chiloé|6|Quinchao|102|Chiloé|278|270|-2|-8|0|0
+2017|4b|10|Región de Los Lagos|4|Chiloé|7|Puqueldón|102|Chiloé|270|257|-12|-15|-1|-1
+2017|4b|10|Región de Los Lagos|4|Chiloé|8|Chonchi|102|Chiloé|261|244|11|6|1|0
+2017|4b|10|Región de Los Lagos|4|Chiloé|9|Queilén|102|Chiloé|260|239|-24|-18|-1|-1
+2017|4b|10|Región de Los Lagos|4|Chiloé|10|Quellón|102|Chiloé|264|249|-1|-1|0|0
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|4|Capitán Prat|1|Cochrane|111|Coyhaique|266|251|17|9|1|0
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|4|Capitán Prat|2|O'HIGGINS|111|Coyhaique|255|254|36|22|1|1
+2017|4b|11|Región de Aisén del General Carlos Ibañez del Campo|4|Capitán Prat|3|Tortel|111|Coyhaique|255|255|-45|-27|-1|-1
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|4|Antártica Chilena|1|Cabo de Hornos|121|Magallanes|240|250|-25|-18|-1|-1
+2017|4b|12|Región de Magallanes y de la Antártica Chilena|4|Antártica Chilena|2|Antártica|121|Magallanes||||||
+2017|4b|13|Región Metropolitana|4|Maipo|1|San Bernardo|132|Santiago Sur|258|252|3|1|0|0
+2017|4b|13|Región Metropolitana|4|Maipo|2|BUIN|132|Santiago Sur|264|258|6|7|0|1
+2017|4b|13|Región Metropolitana|4|Maipo|3|Paine|132|Santiago Sur|265|256|4|0|0|0
+2017|4b|13|Región Metropolitana|4|Maipo|4|Calera de Tango|132|Santiago Sur|268|263|-6|-2|0|0
+2017|4b|5|Región de Valparaíso|5|Valparaíso|1|Valparaíso|53|Valparaíso|260|254|2|0|0|0
+2017|4b|5|Región de Valparaíso|5|Valparaíso|2|Viña del Mar|53|Valparaíso|270|265|-1|-1|0|0
+2017|4b|5|Región de Valparaíso|5|Valparaíso|3|Quintero|53|Valparaíso|258|259|1|6|0|0
+2017|4b|5|Región de Valparaíso|5|Valparaíso|4|Puchuncaví|53|Valparaíso|252|244|4|0|0|0
+2017|4b|5|Región de Valparaíso|5|Valparaíso|7|Casablanca|53|Valparaíso|265|253|6|-8|0|-1
+2017|4b|5|Región de Valparaíso|5|Valparaíso|8|Juan Fernández|53|Valparaíso|218|217|-20|-25|0|-1
+2017|4b|5|Región de Valparaíso|5|Valparaíso|9|Concón|53|Valparaíso|279|275|0|-3|0|0
+2017|4b|10|Región de Los Lagos|5|Palena|1|Chaitén|104|Palena|256|223|6|-5|0|0
+2017|4b|10|Región de Los Lagos|5|Palena|2|Hualaihué|101|Llanquihue|255|237|-3|-6|0|0
+2017|4b|10|Región de Los Lagos|5|Palena|3|Futaleufú|104|Palena|263|255|-5|2|0|0
+2017|4b|10|Región de Los Lagos|5|Palena|4|Palena|104|Palena|231|224|-20|-19|-1|-1
+2017|4b|13|Región Metropolitana|5|Melipilla|1|Melipilla|135|Talagante|269|258|8|4|1|0
+2017|4b|13|Región Metropolitana|5|Melipilla|2|María Pinto|135|Talagante|255|248|1|3|0|0
+2017|4b|13|Región Metropolitana|5|Melipilla|3|Curacaví|135|Talagante|260|250|-2|-4|0|0
+2017|4b|13|Región Metropolitana|5|Melipilla|4|Alhué|135|Talagante|265|251|17|21|1|1
+2017|4b|13|Región Metropolitana|5|Melipilla|5|San Pedro|135|Talagante|257|249|-18|-16|-1|-1
+2017|4b|5|Región de Valparaíso|6|San Antonio|1|San Antonio|54|San Antonio|268|262|2|-3|0|0
+2017|4b|5|Región de Valparaíso|6|San Antonio|2|Cartagena|54|San Antonio|255|246|6|6|0|0
+2017|4b|5|Región de Valparaíso|6|San Antonio|3|El Tabo|54|San Antonio|240|241|-2|13|0|1
+2017|4b|5|Región de Valparaíso|6|San Antonio|4|El Quisco|54|San Antonio|252|241|2|-2|0|0
+2017|4b|5|Región de Valparaíso|6|San Antonio|5|Algarrobo|54|San Antonio|243|233|-10|-12|-1|-1
+2017|4b|5|Región de Valparaíso|6|San Antonio|6|Santo Domingo|54|San Antonio|273|262|-1|-1|0|0
+2017|4b|13|Región Metropolitana|6|Talagante|1|Talagante|135|Talagante|274|266|6|0|0|0
+2017|4b|13|Región Metropolitana|6|Talagante|2|Peñaflor|135|Talagante|262|249|0|-2|0|0
+2017|4b|13|Región Metropolitana|6|Talagante|3|Isla de Maipo|135|Talagante|254|249|6|3|0|0
+2017|4b|13|Región Metropolitana|6|Talagante|4|El Monte|135|Talagante|258|254|7|17|1|1
+2017|4b|13|Región Metropolitana|6|Talagante|5|Padre Hurtado|135|Talagante|259|250|4|0|0|0
+2017|4b|14|Región de los Ríos|6|Ranco|5|Futrono|142|Ranco|276|253|8|5|0|0
+2017|4b|14|Región de los Ríos|6|Ranco|9|La Unión|142|Ranco|285|265|14|5|1|0
+2017|4b|14|Región de los Ríos|6|Ranco|11|Río Bueno|142|Ranco|266|255|-2|0|0|0
+2017|4b|14|Región de los Ríos|6|Ranco|12|Lago Ranco|142|Ranco|263|254|-1|-4|0|0
+2017|4b|5|Región de Valparaíso|7|Isla de Pascua|1|Isla de Pascua|53|Valparaíso|234|220|-14|-8|-1|0
+2017|4b|5|Región de Valparaíso|8|Marga Marga|1|Limache|51|Quillota - Petorca|262|254|3|-3|0|0
+2017|4b|5|Región de Valparaíso|8|Marga Marga|2|Olmué|51|Quillota - Petorca|248|236|-10|-3|-1|0
+2017|4b|5|Región de Valparaíso|8|Marga Marga|3|Quilpué|53|Valparaíso|266|257|1|-3|0|0
+2017|4b|5|Región de Valparaíso|8|Marga Marga|4|Villa Alemana|53|Valparaíso|269|266|4|3|0|0
