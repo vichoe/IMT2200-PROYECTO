@@ -1,5 +1,6 @@
 # IMT2200-PROYECTO
 Grupo 12
+
 ## Introducción a la Ciencia de Datos 🧪📊
 
 **Agustin Alonso De Juan Córdova** - Agusrush21
@@ -17,7 +18,7 @@ Grupo 12
 
 | Entregable    | Fecha de Inicio  | Fecha de Entrega | Estado     |
 |---------------|------------------|------------------|------------|
-| Entrega 1     | -                | 08/10/2024       | Incompleto |
+| Entrega 1     | 08/08/2024       | 08/10/2024       | Comletado  |
 | Entrega 2     | -                | 22/11/2024       | Incompleto |
 | Entrega 3     | -                | 06/12/2024       | Incompleto |
 
