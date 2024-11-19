@@ -19,7 +19,7 @@ Grupo 12
 | Entregable    | Fecha de Inicio  | Fecha de Entrega | Estado     |
 |---------------|------------------|------------------|------------|
 | Entrega 1     | 08/08/2024       | 08/10/2024       | Comletado  |
-| Entrega 2     | -                | 22/11/2024       | Incompleto |
+| Entrega 2     | 18/10/2024       | 22/11/2024       | Incompleto |
 | Entrega 3     | -                | 06/12/2024       | Incompleto |
 
 
