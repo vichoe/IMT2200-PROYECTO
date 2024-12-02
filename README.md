@@ -23,5 +23,9 @@ Grupo 12
 | Entrega 3     | 22/11/2024       | 29/11/2024       | Completado |
 
 
+## Video
+link: [https://drive.google.com/drive/folders/16jQXpgyA91LWP0_XCcLKiHUUo3p5S0re?usp=sharing]
+
+
 
 
